@@ -4,12 +4,12 @@ A **realtime device tracking application** where multiple users can see their li
 
 ![Realtime Device Tracker](https://github.com/sumitprajapati1/Realtime-Device-Tracker/blob/master/images/realtime-device-tracker.png?raw=true)  
 
-## **Live Demo**
+## **Demo**
 Check out the live project: [Realtime Device Tracker](https://realtime-device-tracker-1-osqo.onrender.com)
 
 ---
 
-## **How It Works**
+## **Working**
 
 1. **Open the Application**:  
    - When you open the app on any device, it will ask for location permission.
@@ -53,5 +53,5 @@ Check out the live project: [Realtime Device Tracker](https://realtime-device-tr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sumitprajapati1/Realtime-Device-Tracker.git
+   git clone https://github.com/SushantDevHub/Realtime-Device-Tracker.git
    cd Realtime-Device-Tracker
