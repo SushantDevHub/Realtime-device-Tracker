@@ -24,7 +24,7 @@ Check out the live project: [Realtime Device Tracker](https://realtime-device-tr
 
 ---
 
-## **Tech Stack**
+## **Technology that are used**
 
 - **Frontend**:  
   - **Leaflet.js** for interactive maps.
